@@ -1,0 +1,4 @@
+"D:\CLion 2018.1.2\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/MinGW/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/MinGW/bin/mingw32-gcc.exe -DCMAKE_CXX_COMPILER=D:/MinGW/bin/mingw32-g++.exe -G "CodeBlocks - MinGW Makefiles" D:\Soul\OOP\OOP\Lab3
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/Soul/OOP/OOP/Lab3/cmake-build-debug
